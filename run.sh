@@ -1,3 +1,6 @@
+# free 53 UDP on GCE instance
+sudo systemctl stop systemd-resolved
+
 chmod 777 Corefile
 chmod 777 example.db
 
